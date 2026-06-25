@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BharatVote Analytics — Election Intelligence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="/static/style.css?v=3">
+</head>
+<body class="dark-theme">
+    <div class="app-container">
+        <!-- Top Navbar -->
+        <nav class="top-nav">
+            <div class="nav-left">
+                <div class="logo-container">
+                    <img src="/static/logo.png" alt="BharatVote Logo" class="logo-img">
+                </div>
+                <div class="brand-info">
+                    <h1>BharatVote Analytics</h1>
+                    <p>ML-Powered Election Intelligence</p>
+                </div>
+            </div>
+            <div class="nav-right">
+                <div class="status-badge active">
+                    <span class="dot"></span>
+                    3 Models Active
+                </div>
+                <div class="status-badge info">
+                    1962–2019 Data
+                </div>
+                <div class="status-badge prediction">
+                    Live Prediction
+                </div>
+            </div>
+        </nav>
+
+        <main class="main-layout">
+            <!-- Sidebar: Constituency Details -->
+            <aside class="sidebar">
+                <div class="card glass">
+                    <div class="card-header">
+                        <i data-lucide="zap" class="icon-zap"></i>
+                        <div class="header-text">
+                            <h2>Constituency Details</h2>
+                            <p>Fill in the details to get an instant live prediction from 3 ML models.</p>
+                        </div>
+                    </div>
+
+                    <div class="section-divider">
+                        <span>CONSTITUENCY PROFILE</span>
+                    </div>
+
+                    <div class="form-grid">
+                        <div class="input-group">
+                            <label>Region</label>
+                            <select id="region">
+                                {% for v in valid_values['region'] %}
+                                    <option value="{{ v }}" {% if v == 'North' %}selected{% endif %}>{{ v }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="input-group">
+                            <label>Constituency Type</label>
+                            <select id="con_type">
+                                {% for v in valid_values['type'] %}
+                                    <option value="{{ v }}" {% if v == 'GEN' %}selected{% endif %}>{{ v }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="input-group">
+                            <label>Party Type</label>
+                            <select id="party_type">
+                                {% for v in valid_values['party_type'] %}
+                                    <option value="{{ v }}" {% if v == 'National' %}selected{% endif %}>{{ v }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="input-group">
+                            <label>Alliance</label>
+                            <select id="alliance">
+                                {% for v in valid_values['alliance'] %}
+                                    <option value="{{ v }}" {% if v == 'NDA' %}selected{% endif %}>{{ v }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="input-group">
+                            <label>Political Era</label>
+                            <select id="era">
+                                {% for v in valid_values['era'] %}
+                                    <option value="{{ v }}" {% if v == 'NDA Era' %}selected{% endif %}>{{ v }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="input-group">
+                            <label>Election Decade</label>
+                            <select id="decade">
+                                <option value="1960">1960s</option>
+                                <option value="1970">1970s</option>
+                                <option value="1980">1980s</option>
+                                <option value="1990">1990s</option>
+                                <option value="2000">2000s</option>
+                                <option value="2010" selected>2010s</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="section-divider">
+                        <span>ELECTORAL STATISTICS</span>
+                    </div>
+
+                    <div class="form-grid">
+                        <div class="input-group">
+                            <label>Total Registered Voters</label>
+                            <div class="input-with-icon">
+                                <i data-lucide="users" class="input-icon"></i>
+                                <input type="number" id="electors" value="950000">
+                            </div>
+                            <span class="helper-text">Typical range: 500K – 1.5M</span>
+                        </div>
+                        <div class="input-group">
+                            <label>Total Votes Cast</label>
+                            <div class="input-with-icon">
+                                <i data-lucide="archive" class="input-icon"></i>
+                                <input type="number" id="votes" value="650000">
+                            </div>
+                            <span class="helper-text">Must be less than total voters</span>
+                        </div>
+                        <div class="input-group">
+                            <label>Voter Turnout %</label>
+                            <div class="input-with-icon">
+                                <i data-lucide="trending-up" class="input-icon"></i>
+                                <input type="number" id="turnout" value="68.4" step="0.1">
+                            </div>
+                            <span class="helper-text">Typical range: 50% – 80%</span>
+                        </div>
+                        <div class="input-group">
+                            <label>Winning Margin %</label>
+                            <div class="input-with-icon">
+                                <i data-lucide="percent" class="input-icon"></i>
+                                <input type="number" id="marginpct" value="20">
+                            </div>
+                            <span class="helper-text">Safe if ≥ 15%</span>
+                        </div>
+                        <div class="input-group">
+                            <label>Winning Margin (Votes)</label>
+                            <div class="input-with-icon">
+                                <i data-lucide="hash" class="input-icon"></i>
+                                <input type="number" id="margin" value="130000">
+                            </div>
+                        </div>
+                        <div class="input-group">
+                            <label>Candidate Won?</label>
+                            <select id="won">
+                                <option value="1" selected>Yes — Winner</option>
+                                <option value="0">No — Loser</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button class="btn-predict" onclick="runPrediction()">
+                        <span id="predictBtnText">Prediction</span>
+                        <div id="predictBtnLoader" class="loader hidden"></div>
+                    </button>
+                </div>
+            </aside>
+
+            <!-- Dashboard: Results -->
+            <section class="dashboard-content">
+                <!-- Safe or Swing Card -->
+                <div class="result-card glass" id="cardSafeSwing">
+                    <div class="card-top">
+                        <div class="card-title-group">
+                            <div class="status-indicator green"></div>
+                            <div class="title-text">
+                                <h3>Safe or Swing?</h3>
+                                <p>Model 1 · Random Forest Classifier</p>
+                            </div>
+                        </div>
+                        <div id="tagSafeSwing" class="badge swing">Swing</div>
+                    </div>
+                    
+                    <div class="prob-bars">
+                        <div class="prob-row">
+                            <div class="prob-label">
+                                <span class="dot green"></span> Safe
+                            </div>
+                            <div class="bar-container">
+                                <div id="barSafe" class="bar green" style="width: 32.85%"></div>
+                            </div>
+                            <div id="valSafe" class="prob-value">32.85%</div>
+                        </div>
+                        <div class="prob-row">
+                            <div class="prob-label">
+                                <span class="dot red"></span> Swing
+                            </div>
+                            <div class="bar-container">
+                                <div id="barSwing" class="bar red" style="width: 67.15%"></div>
+                            </div>
+                            <div id="valSwing" class="prob-value">67.15%</div>
+                        </div>
+                    </div>
+
+                    <div class="insight-box">
+                        <i data-lucide="zap" class="insight-icon"></i>
+                        <p id="insightText">With only a 67.15% Swing probability, this is a competitive seat where the outcome could easily flip — watch this closely!</p>
+                    </div>
+                </div>
+
+                <!-- Predicted Voter Turnout Card -->
+                <div class="result-card glass" id="cardTurnout">
+                    <div class="card-top">
+                        <div class="card-title-group">
+                            <div class="icon-box blue">
+                                <i data-lucide="bar-chart-3"></i>
+                            </div>
+                            <div class="title-text">
+                                <h3>Predicted Voter Turnout</h3>
+                                <p>Model 2 · Ridge Regression</p>
+                            </div>
+                        </div>
+                        <div id="valTurnoutMain" class="large-value">64.66%</div>
+                    </div>
+
+                    <div class="gender-turnout-row">
+                        <div class="gender-item">
+                            <i data-lucide="user" class="icon-male"></i>
+                            <div class="gender-data">
+                                <span class="label">Male Turnout</span>
+                                <span id="valMaleTurnout" class="value">65.2%</span>
+                            </div>
+                        </div>
+                        <div class="gender-item">
+                            <i data-lucide="user" class="icon-female"></i>
+                            <div class="gender-data">
+                                <span class="label">Female Turnout</span>
+                                <span id="valFemaleTurnout" class="value">64.1%</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="gauge-container">
+                        <div class="gauge">
+                            <svg viewBox="0 0 100 50">
+                                <path class="gauge-bg" d="M10 45 A 35 35 0 0 1 90 45" fill="none" stroke-width="8" />
+                                <path id="gaugeFill" class="gauge-fill" d="M10 45 A 35 35 0 0 1 90 45" fill="none" stroke-width="8" stroke-dasharray="125" stroke-dashoffset="44" />
+                            </svg>
+                            <div class="gauge-text">
+                                <span id="valTurnoutInner" class="pct">64.66%</span>
+                                <span class="label">Moderate</span>
+                            </div>
+                        </div>
+                        <div class="gauge-legend">
+                            <div class="legend-item"><span class="dot red"></span> &lt;50% Low</div>
+                            <div class="legend-item"><span class="dot yellow"></span> 50-65% Moderate</div>
+                            <div class="legend-item"><span class="dot green"></span> 65-75% High</div>
+                            <div class="legend-item"><span class="dot purple"></span> &gt;75% Very High</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Win or Loss Card -->
+                <div class="result-card glass" id="cardWinLoss">
+                    <div class="card-top">
+                        <div class="card-title-group">
+                            <div class="icon-box gold">
+                                <i data-lucide="trophy"></i>
+                            </div>
+                            <div class="title-text">
+                                <h3>Win or Loss?</h3>
+                                <p>Model 3 · Gradient Boosting Classifier</p>
+                            </div>
+                        </div>
+                        <div id="tagWinLoss" class="badge success">WIN</div>
+                    </div>
+
+                    <div class="win-stats">
+                        <div class="donut-chart-container">
+                            <div class="donut-chart">
+                                <svg viewBox="0 0 100 100">
+                                    <circle class="donut-bg" cx="50" cy="50" r="40" fill="none" stroke-width="8" />
+                                    <circle id="donutFill" class="donut-fill" cx="50" cy="50" r="40" fill="none" stroke-width="8" stroke-dasharray="251.2" stroke-dashoffset="0" />
+                                </svg>
+                                <div class="donut-center">
+                                    <i data-lucide="trophy" class="gold"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="stats-list">
+                            <div class="stat-item">
+                                <span class="dot green"></span>
+                                <span class="label">Win</span>
+                                <span id="valWin" class="value">99.99%</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="dot red"></span>
+                                <span class="label">Loss</span>
+                                <span id="valLoss" class="value">0.01%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast" class="hidden"></div>
+
+    <script>
+        const decadeStats = {{ decade_stats | tojson }};
+        lucide.createIcons();
+    </script>
+    <script src="/static/script.js?v=3"></script>
+</body>
+</html>

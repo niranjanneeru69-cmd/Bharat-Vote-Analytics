@@ -1,0 +1,1214 @@
+constituency_id,pc_name,state,st_code,type,region
+1,adilabad,andhra pradesh,S01,GEN,South
+2,adoni,andhra pradesh,,GEN,South
+3,agra,uttar pradesh,S24,GEN,North
+4,ahmedabad,gujarat,,GEN,West
+5,ahmednagar,maharashtra,,GEN,West
+6,ajmer,rajasthan,S20,GEN,West
+7,akbarpur,uttar pradesh,S24,SC,North
+8,akola,maharashtra,S13,GEN,West
+9,aligarh,uttar pradesh,S24,GEN,North
+10,allahabad,uttar pradesh,S24,GEN,North
+11,almora,uttar pradesh,,GEN,North
+12,alwar,rajasthan,S20,GEN,West
+13,amalapruam,andhra pradesh,,SC,South
+14,ambala,punjab,,SC,North
+15,ambalapuzha,kerala,,GEN,South
+16,amravati,maharashtra,S13,GEN,West
+17,amreli,gujarat,S06,GEN,West
+18,amritsar,punjab,S19,GEN,North
+19,amroha,uttar pradesh,S24,GEN,North
+20,anakapalli,andhra pradesh,S01,GEN,South
+21,anand,gujarat,S06,GEN,West
+22,anantpur,andhra pradesh,,GEN,South
+23,aruppukkottai,madras,,GEN,Other
+24,asansol,west bengal,S25,GEN,East
+25,aurangabad,bihar,S04,GEN,East
+26,aurangabad,maharashtra,S13,GEN,West
+27,ausgram,west bengal,,SC,East
+28,autonomous districts,assam,,ST,East
+29,azamgarh,uttar pradesh,S24,GEN,North
+30,badagara,kerala,,GEN,South
+31,bagaha,bihar,,GEN,East
+32,bahraich,uttar pradesh,S24,GEN,North
+33,balaghat,madhya pradesh,S12,GEN,Central
+34,balasore,odisha,,GEN,East
+35,ballia,uttar pradesh,S24,GEN,North
+36,baloda bazar,madhya pradesh,,SC,Central
+37,balrampur,uttar pradesh,,GEN,North
+38,balurghat,west bengal,S25,ST,East
+39,banaskantha,gujarat,S06,GEN,West
+40,banda,uttar pradesh,S24,GEN,North
+41,bangalore city,mysore,,GEN,Other
+42,banglore,mysore,,GEN,Other
+43,banka,bihar,S04,GEN,East
+44,bankura,west bengal,S25,GEN,East
+45,bansgaon,uttar pradesh,S24,SC,North
+46,bansi,uttar pradesh,,SC,North
+47,banswara,rajasthan,S20,ST,West
+48,bara banki,uttar pradesh,,GEN,North
+49,baramati,maharashtra,S13,GEN,West
+50,barasat,west bengal,S25,GEN,East
+51,bareilly,uttar pradesh,S24,GEN,North
+52,barh,bihar,,GEN,East
+53,barmer,rajasthan,S20,GEN,West
+54,baroda,gujarat,,GEN,West
+55,barpeta,assam,S03,GEN,East
+56,barrackpore,west bengal,S25,GEN,East
+57,basirhat,west bengal,S25,GEN,East
+58,bastar,madhya pradesh,,ST,Central
+59,basti,uttar pradesh,S24,GEN,North
+60,begusarai,bihar,S04,GEN,East
+61,belgaum,mysore,,GEN,Other
+62,bellary,mysore,,GEN,Other
+63,berhampur,west bengal,,GEN,East
+64,bettiah,bihar,,SC,East
+65,bhadrak,odisha,,SC,East
+66,bhagalpur,bihar,S04,GEN,East
+67,bhandara,maharashtra,S13,GEN,West
+68,bhanjanagar,odisha,,SC,East
+69,bharatpur,rajasthan,S20,GEN,West
+70,bhatinda,punjab,,SC,North
+71,bhavnagar,gujarat,S06,GEN,West
+72,bhilwara,rajasthan,S20,GEN,West
+73,bhind,madhya pradesh,S12,SC,Central
+74,bhir,maharashtra,,GEN,West
+75,bhiwandi,maharashtra,S13,ST,West
+76,bhopal,madhya pradesh,S12,GEN,Central
+77,bhubaneswar,odisha,,GEN,East
+78,bidar,mysore,,SC,Other
+79,bijapur north,mysore,,GEN,Other
+80,bijapur south,mysore,,GEN,Other
+81,bijnor,uttar pradesh,S24,GEN,North
+82,bikaner,rajasthan,S20,GEN,West
+83,bikramganj,bihar,,GEN,East
+84,bilaspur,madhya pradesh,,GEN,Central
+85,bilhaur,uttar pradesh,,GEN,North
+86,birbhum,west bengal,S25,SC,East
+87,bisauli,uttar pradesh,,GEN,North
+88,bolangir,odisha,,SC,East
+89,bombay city central north,maharashtra,,SC,West
+90,bombay city central south,maharashtra,,GEN,West
+91,bombay city north,maharashtra,,GEN,West
+92,bombay city south,maharashtra,,GEN,West
+93,broach,gujarat,,GEN,West
+94,budaun,uttar pradesh,,GEN,North
+95,bulandsahar,uttar pradesh,,GEN,North
+96,buldana,maharashtra,,GEN,West
+97,bulsar,gujarat,,ST,West
+98,burdwan,west bengal,S25,GEN,East
+99,buxar,bihar,S04,GEN,East
+100,cachar,assam,,GEN,East
+101,calcutta central,west bengal,,GEN,East
+102,calcutta east,west bengal,,GEN,East
+103,calcutta north west,west bengal,,GEN,East
+104,calcutta south west,west bengal,,GEN,East
+105,chail,uttar pradesh,,SC,North
+106,chamarajanagar,mysore,,SC,Other
+107,chamba,himachal pradesh,,GEN,North
+108,chanda,maharashtra,,GEN,West
+109,chandauli,uttar pradesh,S24,GEN,North
+110,chandni chowk,delhi,,GEN,North
+111,chapra,bihar,,GEN,East
+112,chatra,bihar,,GEN,East
+113,chatrapur,odisha,,GEN,East
+114,cheepurupalli,andhra pradesh,,GEN,South
+115,chhindwara,madhya pradesh,S12,GEN,Central
+116,chidambaram,madras,,GEN,Other
+117,chikballapur,mysore,,GEN,Other
+118,chikodi,mysore,,GEN,Other
+119,chingleput,madras,,GEN,Other
+120,chirayinkil,kerala,,GEN,South
+121,chitradurga,mysore,,GEN,Other
+122,chittor,andhra pradesh,,GEN,South
+123,chittorgarh,rajasthan,S20,GEN,West
+124,coimbatore,madras,,GEN,Other
+125,contai,west bengal,,GEN,East
+126,cooch behar,west bengal,S25,SC,East
+127,cuddalore,madras,,GEN,Other
+128,cuddapah,andhra pradesh,,GEN,South
+129,cuttack,odisha,,GEN,East
+130,dahod,gujarat,S06,SC,West
+131,daimond harbour,west bengal,,GEN,East
+132,damoh,madhya pradesh,S12,SC,Central
+133,darbhanga,bihar,S04,GEN,East
+134,darjeeling,west bengal,S25,GEN,East
+135,darrang,assam,,GEN,East
+136,dausa,rajasthan,S20,GEN,West
+137,dehra dun,uttar pradesh,,GEN,North
+138,delhi sadar,delhi,,GEN,North
+139,deoria,uttar pradesh,S24,GEN,North
+140,dewas,madhya pradesh,S12,SC,Central
+141,dhanbad,bihar,,GEN,East
+142,dharwar north,mysore,,GEN,Other
+143,dharwar south,mysore,,GEN,Other
+144,dhenkanal,odisha,,GEN,East
+145,dhubri,assam,S03,GEN,East
+146,dhulia,maharashtra,,GEN,West
+147,dibrugarh,assam,S03,GEN,East
+148,dindigul,madras,,GEN,Other
+149,domariaganj,uttar pradesh,,GEN,North
+150,dumka,bihar,,ST,East
+151,durg,madhya pradesh,,GEN,Central
+152,eluru,andhra pradesh,S01,GEN,South
+153,ernakulam,kerala,S11,GEN,South
+154,erode,madras,,GEN,Other
+155,etah,uttar pradesh,S24,GEN,North
+156,etawah,uttar pradesh,S24,GEN,North
+157,faizabad,uttar pradesh,S24,GEN,North
+158,farrukhabad,uttar pradesh,S24,GEN,North
+159,fatehpur,uttar pradesh,S24,GEN,North
+160,ferozepur,punjab,,GEN,North
+161,firozabad,uttar pradesh,S24,GEN,North
+162,gadwal,andhra pradesh,,GEN,South
+163,ganganagar,rajasthan,S20,SC,West
+164,garhwal,uttar pradesh,,GEN,North
+165,gauhati,assam,S03,GEN,East
+166,gaya,bihar,,GEN,East
+167,gazipur,uttar pradesh,,GEN,North
+168,ghatal,west bengal,S25,GEN,East
+169,ghatampur,uttar pradesh,,SC,North
+170,ghosi,uttar pradesh,S24,GEN,North
+171,giridih,bihar,,GEN,East
+172,goalpara,assam,,ST,East
+173,godda,bihar,,GEN,East
+174,gohichettipalayam,madras,,GEN,Other
+175,gonda,uttar pradesh,S24,GEN,North
+176,gondia,maharashtra,,SC,West
+177,gopalganj,bihar,,GEN,East
+178,gorakhpur,uttar pradesh,S24,GEN,North
+179,gudivada,andhra pradesh,,GEN,South
+180,gulbarga,mysore,,GEN,Other
+181,guna,madhya pradesh,S12,GEN,Central
+182,guntur,andhra pradesh,S01,GEN,South
+183,gurdaspur,punjab,S19,GEN,North
+184,gurgaon,punjab,,GEN,North
+185,gwalior,madhya pradesh,S12,GEN,Central
+186,hajipur,bihar,,GEN,East
+187,hamirpur,uttar pradesh,S24,GEN,North
+188,hapur,uttar pradesh,,GEN,North
+189,hardoi,uttar pradesh,S24,SC,North
+190,hassan,mysore,,GEN,Other
+191,hata,uttar pradesh,,GEN,North
+192,hatkanangle,maharashtra,S13,SC,West
+193,hatras,uttar pradesh,,SC,North
+194,hazari bagh,bihar,,GEN,East
+195,hindaun,rajasthan,,GEN,West
+196,hindupur,andhra pradesh,S01,GEN,South
+197,hissar,punjab,,GEN,North
+198,hooghly,west bengal,S25,GEN,East
+199,hoshangabad,madhya pradesh,S12,GEN,Central
+200,hoshiarpur,punjab,S19,GEN,North
+201,howrah,west bengal,S25,GEN,East
+202,hydrabad,andhra pradesh,,GEN,South
+203,indore,madhya pradesh,S12,GEN,Central
+204,inner manipur,manipur,S14,GEN,East
+205,jabalpur,madhya pradesh,S12,GEN,Central
+206,jahanabad,bihar,S04,GEN,East
+207,jainagar,bihar,,GEN,East
+208,jaipur,rajasthan,S20,GEN,West
+209,jajpur,odisha,,SC,East
+210,jalaun,uttar pradesh,S24,SC,North
+211,jalesar,uttar pradesh,,GEN,North
+212,jalgaon,maharashtra,S13,GEN,West
+213,jalna,maharashtra,S13,GEN,West
+214,jalore,rajasthan,S20,GEN,West
+215,jalpaiguri,west bengal,S25,GEN,East
+216,jamnagar,gujarat,S06,GEN,West
+217,jamshedpur,bihar,,GEN,East
+218,jamui,bihar,,SC,East
+219,janjgir,madhya pradesh,,GEN,Central
+220,jaunpur,uttar pradesh,S24,GEN,North
+221,jhabua,madhya pradesh,,ST,Central
+222,jhajjar,punjab,,GEN,North
+223,jhalawar,rajasthan,S20,GEN,West
+224,jhansi,uttar pradesh,S24,GEN,North
+225,jhargram,west bengal,S25,ST,East
+226,jhunjhunu,rajasthan,S20,GEN,West
+227,jodhpur,rajasthan,S20,GEN,West
+228,jorhat,assam,S03,GEN,East
+229,joynagar,west bengal,S25,SC,East
+230,jullundur,punjab,,GEN,North
+231,junagadh,gujarat,S06,GEN,West
+232,kaimganj,uttar pradesh,,GEN,North
+233,kaira,gujarat,,GEN,West
+234,kairana,uttar pradesh,S24,GEN,North
+235,kaisarganj,uttar pradesh,,GEN,North
+236,kaithal,punjab,,GEN,North
+237,kakinada,andhra pradesh,S01,GEN,South
+238,kalahandi,odisha,,GEN,East
+239,kanara,mysore,,GEN,Other
+240,kangra,punjab,,GEN,North
+241,kanpur,uttar pradesh,S24,GEN,North
+242,karad,maharashtra,,GEN,West
+243,karimganj,assam,S03,SC,East
+244,karimnagar,andhra pradesh,S01,GEN,South
+245,karnal,punjab,,GEN,North
+246,karol bagh,delhi,,SC,North
+247,karur,madras,,GEN,Other
+248,kasergod,kerala,,GEN,South
+249,katihar,bihar,S04,GEN,East
+250,katwa,west bengal,,GEN,East
+251,kavali,andhra pradesh,,GEN,South
+252,kendrapara,odisha,,GEN,East
+253,keonjhar,odisha,,GEN,East
+254,kesaria,bihar,,GEN,East
+255,khagaria,bihar,S04,GEN,East
+256,khajuraho,madhya pradesh,S12,GEN,Central
+257,khamgaon,maharashtra,,SC,West
+258,khammam,andhra pradesh,S01,GEN,South
+259,khandwa,madhya pradesh,S12,GEN,Central
+260,khargone,madhya pradesh,S12,GEN,Central
+261,khed,maharashtra,,GEN,West
+262,kheri,uttar pradesh,S24,GEN,North
+263,khurja,uttar pradesh,,SC,North
+264,kishanganj,bihar,S04,GEN,East
+265,koilpatti,madras,,SC,Other
+266,kolaba,maharashtra,,GEN,West
+267,kolar,mysore,,SC,Other
+268,kolhapur,maharashtra,S13,GEN,West
+269,kopargaon,maharashtra,,GEN,West
+270,koppal,mysore,,GEN,Other
+271,koraput,odisha,,ST,East
+272,kotah,rajasthan,,SC,West
+273,kottayam,kerala,S11,GEN,South
+274,kozhikode,kerala,S11,GEN,South
+275,krishnagiri,madras,,GEN,Other
+276,kumbakonam,madras,,GEN,Other
+277,kurnool,andhra pradesh,S01,GEN,South
+278,kutch,gujarat,,GEN,West
+279,lalganj,uttar pradesh,S24,SC,North
+280,latur,maharashtra,S13,SC,West
+281,lohardaga,bihar,,ST,East
+282,lucknow,uttar pradesh,S24,GEN,North
+283,ludhiana,punjab,S19,GEN,North
+284,machhlishahr,uttar pradesh,S24,SC,North
+285,madhubani,bihar,S04,GEN,East
+286,madras north,madras,,GEN,Other
+287,madras south,madras,,GEN,Other
+288,madurai,madras,,GEN,Other
+289,maharajganj,bihar,S04,GEN,East
+290,maharajganj,uttar pradesh,S24,GEN,North
+291,mahasamund,madhya pradesh,,GEN,Central
+292,mahasu,himachal pradesh,,GEN,North
+293,mahbubabad,andhra pradesh,,GEN,South
+294,mahbubnagar,andhra pradesh,S01,SC,South
+295,mahendragarh,punjab,,GEN,North
+296,mahua,bihar,,SC,East
+297,mainpuri,uttar pradesh,S24,GEN,North
+298,malda,west bengal,,GEN,East
+299,malegaon,maharashtra,,GEN,West
+300,mandi,himachal pradesh,S08,GEN,North
+301,mandla,madhya pradesh,S12,ST,Central
+302,mandsaur,madhya pradesh,,GEN,Central
+303,mandvi,gujarat,,ST,West
+304,mandya,mysore,,GEN,Other
+305,mangalore,mysore,,GEN,Other
+306,manjeri,kerala,,GEN,South
+307,markapur,andhra pradesh,,GEN,South
+308,marodabad,uttar pradesh,,GEN,North
+309,masulipatnam,andhra pradesh,,GEN,South
+310,mathura,uttar pradesh,S24,GEN,North
+311,mathurapur,west bengal,S25,SC,East
+312,mavilekara,kerala,,SC,South
+313,mayuram,madras,,SC,Other
+314,mayurbhanj,odisha,,ST,East
+315,medak,andhra pradesh,S01,GEN,South
+316,mehsana,gujarat,,GEN,West
+317,melur,madras,,SC,Other
+318,merut,uttar pradesh,,GEN,North
+319,midnapur,west bengal,,GEN,East
+320,miraj,maharashtra,,GEN,West
+321,miryalguda,andhra pradesh,,SC,South
+322,mirzapur,uttar pradesh,S24,GEN,North
+323,misrikh,uttar pradesh,S24,SC,North
+324,moga,punjab,,SC,North
+325,mohanlalganj,uttar pradesh,S24,SC,North
+326,monghyr,bihar,,GEN,East
+327,motihari,bihar,,SC,East
+328,mukundapuram,kerala,,GEN,South
+329,murshidabad,west bengal,S25,GEN,East
+330,musafirkhana,uttar pradesh,,GEN,North
+331,muvattupuzha,kerala,,GEN,South
+332,muzaffarnagar,uttar pradesh,S24,GEN,North
+333,muzaffarpur,bihar,S04,GEN,East
+334,mysore,mysore,,GEN,Other
+335,nagapattinam,madras,,GEN,Other
+336,nagaur,rajasthan,S20,GEN,West
+337,nagercoil,madras,,GEN,Other
+338,nagpur,maharashtra,S13,GEN,West
+339,naini tal,uttar pradesh,,GEN,North
+340,nalanda,bihar,S04,GEN,East
+341,nalgonda,andhra pradesh,S01,GEN,South
+342,namakkal,madras,,SC,Other
+343,nanded,maharashtra,S13,GEN,West
+344,nandurbar,maharashtra,S13,ST,West
+345,narasapur,andhra pradesh,,GEN,South
+346,narsipatnam,andhra pradesh,,ST,South
+347,nasik,maharashtra,,GEN,West
+348,nawada,bihar,S04,SC,East
+349,nebadwip,west bengal,,GEN,East
+350,nellore,andhra pradesh,S01,SC,South
+351,new delhi,delhi,,GEN,North
+352,nilgiris,madras,,GEN,Other
+353,nizamabad,andhra pradesh,S01,GEN,South
+354,nowgong,assam,S03,GEN,East
+355,nowrangpur,odisha,,GEN,East
+356,ongole,andhra pradesh,S01,GEN,South
+357,osmanabad,maharashtra,S13,GEN,West
+358,outer delhi,delhi,,GEN,North
+359,outer manipur,manipur,S14,ST,East
+360,padapalli,andhra pradesh,,SC,South
+361,palamau,bihar,,GEN,East
+362,palghat,kerala,,SC,South
+363,pali,rajasthan,S20,GEN,West
+364,panchmahals,gujarat,,GEN,West
+365,pandharpur,maharashtra,,SC,West
+366,parbhani,maharashtra,S13,GEN,West
+367,parvathipuram,andhra pradesh,,ST,South
+368,patan,gujarat,S06,GEN,West
+369,patiala,punjab,S19,GEN,North
+370,patna,bihar,,GEN,East
+371,perambalur,madras,,GEN,Other
+372,periyakulam,madras,,GEN,Other
+373,phillaur,punjab,,SC,North
+374,phulbani,odisha,,ST,East
+375,phulpur,uttar pradesh,S24,GEN,North
+376,pilibhit,uttar pradesh,S24,GEN,North
+377,pollachi,madras,,GEN,Other
+378,poona,maharashtra,,GEN,West
+379,poonani,kerala,,GEN,South
+380,pratapgarh,uttar pradesh,S24,GEN,North
+381,pudukkottai,madras,,GEN,Other
+382,pupri,bihar,,GEN,East
+383,puri,odisha,,GEN,East
+384,purnea,bihar,,GEN,East
+385,purulia,west bengal,S25,GEN,East
+386,qullon,kerala,,GEN,South
+387,rae bareli,uttar pradesh,S24,SC,North
+388,raichur,mysore,,GEN,Other
+389,raiganj,west bengal,S25,GEN,East
+390,raigarh,madhya pradesh,,GEN,Central
+391,raipur,madhya pradesh,,ST,Central
+392,rajahmundry,andhra pradesh,S01,ST,South
+393,rajampet,andhra pradesh,S01,GEN,South
+394,rajapur,maharashtra,,GEN,West
+395,rajgarh,madhya pradesh,S12,GEN,Central
+396,rajkot,gujarat,S06,GEN,West
+397,rajmahal,bihar,,SC,East
+398,rajnandgaon,madhya pradesh,,GEN,Central
+399,ramanathapuram,madras,,GEN,Other
+400,rampur,uttar pradesh,S24,GEN,North
+401,ramsanehighat,uttar pradesh,,SC,North
+402,ramtek,maharashtra,S13,GEN,West
+403,ranchi east,bihar,,GEN,East
+404,ranchi west,bihar,,ST,East
+405,rasra,uttar pradesh,,GEN,North
+406,ratnagiri,maharashtra,S13,GEN,West
+407,rewa,madhya pradesh,S12,GEN,Central
+408,robertganj,uttar pradesh,,SC,North
+409,rohtak,punjab,,GEN,North
+410,rosera,bihar,,SC,East
+411,sabarkantha,gujarat,S06,GEN,West
+412,sabarmati,gujarat,,SC,West
+413,sagar,madhya pradesh,S12,GEN,Central
+414,saharanpur,uttar pradesh,S24,SC,North
+415,saharsa,bihar,,GEN,East
+416,salem,madras,,GEN,Other
+417,salempur,uttar pradesh,S24,GEN,North
+418,salon,uttar pradesh,,GEN,North
+419,samastipur,bihar,,GEN,East
+420,sambalpur,odisha,,GEN,East
+421,sangrur,punjab,S19,GEN,North
+422,sardhana,uttar pradesh,,GEN,North
+423,sasaram,bihar,,SC,East
+424,satara,maharashtra,S13,GEN,West
+425,sawai madhopur,rajasthan,,SC,West
+426,secunderabad,andhra pradesh,,GEN,South
+427,seoni,madhya pradesh,,ST,Central
+428,serampore,west bengal,,GEN,East
+429,shahabad,bihar,,GEN,East
+430,shahabad,uttar pradesh,,GEN,North
+431,shahdol,madhya pradesh,S12,ST,Central
+432,shahjahanpur,uttar pradesh,S24,SC,North
+433,shimoga,mysore,,GEN,Other
+434,shivpuri,madhya pradesh,,GEN,Central
+435,sholapur,maharashtra,,GEN,West
+436,sibsagar,assam,,GEN,East
+437,sidhi,madhya pradesh,S12,GEN,Central
+438,sikar,rajasthan,S20,GEN,West
+439,singhbhum,bihar,,ST,East
+440,sirmur,himachal pradesh,,SC,North
+441,sitamarhi,bihar,S04,GEN,East
+442,sitapur,uttar pradesh,S24,GEN,North
+443,siwan,bihar,S04,GEN,East
+444,sonbarsa,bihar,,SC,East
+445,srikakulam,andhra pradesh,S01,GEN,South
+446,sriperumbudur,madras,,SC,Other
+447,sultanpur,uttar pradesh,S24,GEN,North
+448,sundergarh,odisha,,ST,East
+449,surat,gujarat,S06,GEN,West
+450,surendranagar,gujarat,S06,GEN,West
+451,surguja,madhya pradesh,,ST,Central
+452,tamluk,west bengal,S25,GEN,East
+453,tarn taran,punjab,,GEN,North
+454,tellicherry,kerala,,GEN,South
+455,tenali,andhra pradesh,,GEN,South
+456,tenkasai,madras,,GEN,Other
+457,thana,maharashtra,,GEN,West
+458,thanjavur,madras,,GEN,Other
+459,thiruvalla,kerala,,GEN,South
+460,tikamgarh,madhya pradesh,S12,SC,Central
+461,tindivanam,madras,,GEN,Other
+462,tiptur,mysore,,GEN,Other
+463,tiruchengode,madras,,GEN,Other
+464,tiruchirapali,madras,,GEN,Other
+465,tirukoilur,madras,,SC,Other
+466,tirunelveli,madras,,GEN,Other
+467,tirupathi,andhra pradesh,,SC,South
+468,tiruppattur,madras,,GEN,Other
+469,tiruvallur,madras,,GEN,Other
+470,tiruvannamalai,madras,,GEN,Other
+471,trichur,kerala,,GEN,South
+472,tripura east,tripura,S23,ST,East
+473,tripura west,tripura,S23,GEN,East
+474,trivanduram,kerala,,GEN,South
+475,tumkur,mysore,,GEN,Other
+476,udaipur,rajasthan,S20,ST,West
+477,udipi,mysore,,GEN,Other
+478,ujjain,madhya pradesh,S12,GEN,Central
+479,uluberia,west bengal,S25,GEN,East
+480,una,punjab,,SC,North
+481,unnao,uttar pradesh,S24,GEN,North
+482,varanasi,uttar pradesh,S24,GEN,North
+483,vellore,madras,,GEN,Other
+484,vicarabad,andhra pradesh,,GEN,South
+485,vijaywada,andhra pradesh,,GEN,South
+486,visakhapatnam,andhra pradesh,S01,GEN,South
+487,vishnupur,west bengal,,SC,East
+488,wandiwash,madras,,SC,Other
+489,wardha,maharashtra,S13,GEN,West
+490,warrangal,andhra pradesh,,GEN,South
+491,yeotmal,maharashtra,,GEN,West
+492,adoor,kerala,,SC,South
+493,alipore,west bengal,,GEN,East
+494,amalapuram,andhra pradesh,S01,SC,South
+495,ambala,haryana,S07,SC,North
+496,amethi,uttar pradesh,S24,GEN,North
+497,anantapur,andhra pradesh,S01,GEN,South
+498,andaman nicobar,andaman & nicobar islands,,GEN,South
+499,angul,odisha,,GEN,East
+500,aonla,uttar pradesh,S24,GEN,North
+501,arambagh,west bengal,S25,GEN,East
+502,araria,bihar,S04,SC,East
+503,autonomous dists,assam,,ST,East
+504,bagaha,bihar,,SC,East
+505,bagalkot,mysore,,GEN,Other
+506,baghpat,uttar pradesh,S24,GEN,North
+507,balurghat,west bengal,S25,SC,East
+508,bangalore,mysore,,GEN,Other
+509,baramulla,jammu & kashmir,S09,GEN,North
+510,basti,uttar pradesh,S24,SC,North
+511,berhampore,west bengal,,GEN,East
+512,bettiah,bihar,,GEN,East
+513,betul,madhya pradesh,S12,GEN,Central
+514,bhadrachalam,andhra pradesh,,ST,South
+515,bhanjanagar,odisha,,GEN,East
+516,bhind,madhya pradesh,S12,GEN,Central
+517,bhiwandi,maharashtra,S13,GEN,West
+518,bholpur,west bengal,,GEN,East
+519,bijapur,mysore,,GEN,Other
+520,bijnor,uttar pradesh,S24,SC,North
+521,bobbili,andhra pradesh,,GEN,South
+522,bolangir,odisha,,GEN,East
+523,bombay central,maharashtra,,GEN,West
+524,bombay central south,maharashtra,,GEN,West
+525,bombay north east,maharashtra,,GEN,West
+526,bombay north west,maharashtra,,GEN,West
+527,bombay south,maharashtra,,GEN,West
+528,bulandshahr,uttar pradesh,S24,GEN,North
+529,calcutta north east,west bengal,,GEN,East
+530,calcutta south,west bengal,,GEN,East
+531,chandigarh,chandigarh,U02,GEN,North
+532,chidambaram,madras,,SC,Other
+533,chikmagalur,mysore,,GEN,Other
+534,chikodi,mysore,,SC,Other
+535,chimur,maharashtra,,GEN,West
+536,chitorgarh,rajasthan,,GEN,West
+537,chittoor,andhra pradesh,S01,GEN,South
+538,dabhoi,gujarat,,GEN,West
+539,dadra nagar haveli,dadra & nagar haveli,,ST,West
+540,dahanu,maharashtra,,ST,West
+541,dahod,gujarat,S06,ST,West
+542,damoh,madhya pradesh,S12,GEN,Central
+543,dhandhuka,gujarat,,GEN,West
+544,dhar,madhya pradesh,S12,ST,Central
+545,dharapuram,madras,,SC,Other
+546,diamond harbour,west bengal,S25,GEN,East
+547,east delhi,delhi,,GEN,North
+548,fazilka,punjab,,GEN,North
+549,firozabad,uttar pradesh,S24,SC,North
+550,gandhinagar,gujarat,S06,SC,West
+551,gaya,bihar,,SC,East
+552,ghazipur,uttar pradesh,S24,GEN,North
+553,gobichettipalayam,madras,,GEN,Other
+554,godhra,gujarat,,GEN,West
+555,gurgaon,haryana,S07,GEN,North
+556,hamirpur,himachal pradesh,S08,GEN,North
+557,hathras,uttar pradesh,S24,SC,North
+558,hatkanangale,maharashtra,,GEN,West
+559,hazaribagh,bihar,,GEN,East
+560,hindaun,rajasthan,,SC,West
+561,hissar,haryana,,GEN,North
+562,hoskote,mysore,,GEN,Other
+563,hyderabad,andhra pradesh,S01,GEN,South
+564,jalpaiguri,west bengal,S25,ST,East
+565,jammu,jammu & kashmir,S09,GEN,North
+566,jangipur,west bengal,S25,GEN,East
+567,janjgir,madhya pradesh,,SC,Central
+568,jehanabad,bihar,,GEN,East
+569,jhajjar,haryana,,GEN,North
+570,kaithal,haryana,,GEN,North
+571,kaliabor,assam,S03,GEN,East
+572,kallakurichi,madras,,GEN,Other
+573,kanakapura,mysore,,GEN,Other
+574,kangra,himachal pradesh,S08,GEN,North
+575,kanker,madhya pradesh,,ST,Central
+576,kannauj,uttar pradesh,S24,GEN,North
+577,karnal,haryana,S07,GEN,North
+578,kasargod,kerala,,GEN,South
+579,kasganj,uttar pradesh,,GEN,North
+580,keonjhar,odisha,,ST,East
+581,kessaria,bihar,,GEN,East
+582,khalilabad,uttar pradesh,,GEN,North
+583,khunti,bihar,,ST,East
+584,kota,rajasthan,S20,SC,West
+585,krishnagar,west bengal,,GEN,East
+586,laccadive minicoy and amindivi,laccadive minicoy and amindivi islands,,ST,Other
+587,lakhimpur,assam,S03,GEN,East
+588,machhlishahr,uttar pradesh,S24,GEN,North
+589,machilipatnam,andhra pradesh,S01,GEN,South
+590,madhipura,bihar,,GEN,East
+591,mahbubnagar,andhra pradesh,S01,GEN,South
+592,mahendragarh,haryana,,GEN,North
+593,malegaon,maharashtra,,ST,West
+594,mangaldai,assam,,GEN,East
+595,marmagoa,goa daman and diu,,GEN,Other
+596,mavelikara,kerala,,GEN,South
+597,meerut,uttar pradesh,S24,GEN,North
+598,mettur,madras,,GEN,Other
+599,midnapore,west bengal,,GEN,East
+600,miryalguda,andhra pradesh,,GEN,South
+601,mishrikh,uttar pradesh,,SC,North
+602,moradabad,uttar pradesh,S24,GEN,North
+603,morena,madhya pradesh,S12,SC,Central
+604,motihari,bihar,,GEN,East
+605,muvattu puzha,kerala,,GEN,South
+606,nabadwip,west bengal,,SC,East
+607,nadhugiri,mysore,,GEN,Other
+608,nagarkurnool,andhra pradesh,S01,SC,South
+609,nainital,uttar pradesh,,GEN,North
+610,nandeo,maharashtra,,GEN,West
+611,nandyal,andhra pradesh,S01,GEN,South
+612,narasaraopet,andhra pradesh,S01,GEN,South
+613,nawada,bihar,S04,GEN,East
+614,nowrangpur,odisha,,ST,East
+615,padrauna,uttar pradesh,,GEN,North
+616,palamau,bihar,,SC,East
+617,palghat,kerala,,GEN,South
+618,panjim,goa daman and diu,,GEN,Other
+619,patan,gujarat,S06,SC,West
+620,peddapalli,andhra pradesh,,SC,South
+621,peermade,kerala,,GEN,South
+622,perambalur,madras,,SC,Other
+623,phulbani,odisha,,SC,East
+624,pondicherry,pondicherry,,GEN,Other
+625,ponnani,kerala,S11,SC,South
+626,pupari,bihar,,GEN,East
+627,quilon,kerala,,GEN,South
+628,rae bareli,uttar pradesh,S24,GEN,North
+629,raigarh,madhya pradesh,,ST,Central
+630,raipur,madhya pradesh,,GEN,Central
+631,rajahmundry,andhra pradesh,S01,GEN,South
+632,rajmahal,bihar,,ST,East
+633,ranchi,bihar,,GEN,East
+634,robertsganj,uttar pradesh,S24,SC,North
+635,rohtak,haryana,S07,GEN,North
+636,rupar,punjab,,SC,North
+637,sagar,madhya pradesh,S12,SC,Central
+638,saidpur,uttar pradesh,,SC,North
+639,sangli,maharashtra,S13,GEN,West
+640,satna,madhya pradesh,S12,GEN,Central
+641,sawai madhopur,rajasthan,,ST,West
+642,shahjahanpur,uttar pradesh,S24,GEN,North
+643,shahjapur,madhya pradesh,,GEN,Central
+644,siddipet,andhra pradesh,,SC,South
+645,simla,himachal pradesh,,SC,North
+646,sirsa,haryana,S07,SC,North
+647,sivaganga,madras,,GEN,Other
+648,sivakasi,madras,,GEN,Other
+649,south delhi,delhi,,GEN,North
+650,srinagar,jammu & kashmir,S09,GEN,North
+651,sundargarh,odisha,,ST,East
+652,tehri garhwal,uttar pradesh,,GEN,North
+653,telli cherry,kerala,,GEN,South
+654,tenkasi,madras,,SC,Other
+655,tezpur,assam,S03,GEN,East
+656,tiruchendur,madras,,GEN,Other
+657,tiruchirapalli,madras,,GEN,Other
+658,tirupattur,madras,,GEN,Other
+659,tiruttani,madras,,GEN,Other
+660,tonk,rajasthan,S20,SC,West
+661,trivandrum,kerala,,GEN,South
+662,udhampur,jammu & kashmir,S09,GEN,North
+663,ujjain,madhya pradesh,S12,SC,Central
+664,vellore,madras,,SC,Other
+665,vidisha,madhya pradesh,S12,GEN,Central
+666,wandiwash,madras,,GEN,Other
+667,warangal,andhra pradesh,S01,GEN,South
+668,a and n islands,andaman & nicobar islands,,GEN,South
+669,anantnag,jammu & kashmir,S09,GEN,North
+670,bodda,bihar,,GEN,East
+671,bolpur,west bengal,S25,GEN,East
+672,chidambaram,tamil nadu,S22,SC,South
+673,chikkodi,mysore,,SC,Other
+674,chingleput,tamil nadu,,GEN,South
+675,coimbatore,tamil nadu,S22,GEN,South
+676,cuddalore,tamil nadu,S22,GEN,South
+677,d and n haveli,dadra & nagar haveli,,ST,West
+678,dharapuram,tamil nadu,,SC,South
+679,dindigul,tamil nadu,S22,GEN,South
+680,gobichettipalayam,tamil nadu,,GEN,South
+681,jhun jhunu,rajasthan,,GEN,West
+682,kallakurichi,tamil nadu,S22,GEN,South
+683,karur,tamil nadu,S22,GEN,South
+684,kokrajhar,assam,S03,ST,East
+685,krishnagiri,tamil nadu,S22,GEN,South
+686,krishnanagar,west bengal,S25,GEN,East
+687,kumbakonam,tamil nadu,,GEN,South
+688,ladakh,jammu & kashmir,S09,GEN,North
+689,madhugiri,mysore,,GEN,Other
+690,madras north,tamil nadu,,GEN,South
+691,madras south,tamil nadu,,GEN,South
+692,madurai,tamil nadu,S22,GEN,South
+693,marmagao,goa daman and diu,,GEN,Other
+694,mayuram,tamil nadu,,SC,South
+695,mettur,tamil nadu,,GEN,South
+696,muvattpuzha,kerala,,GEN,South
+697,nagaland,nagaland,S17,GEN,East
+698,nagapattinam,tamil nadu,S22,GEN,South
+699,nagercoil,tamil nadu,,GEN,South
+700,nilgiris,tamil nadu,S22,GEN,South
+701,panaji,goa daman and diu,,GEN,Other
+702,paravathipuram,andhra pradesh,,ST,South
+703,perambalur,tamil nadu,S22,SC,South
+704,periakulam,tamil nadu,,GEN,South
+705,pollachi,tamil nadu,S22,GEN,South
+706,pudukkottai,tamil nadu,,GEN,South
+707,ramanathapuram,tamil nadu,S22,GEN,South
+708,ropar,punjab,,SC,North
+709,salem,tamil nadu,S22,GEN,South
+710,shajapur,madhya pradesh,,GEN,Central
+711,sirsa,haryana,S07,GEN,North
+712,sivaganga,tamil nadu,S22,GEN,South
+713,sivakasi,tamil nadu,,GEN,South
+714,sriperumbudur,tamil nadu,S22,SC,South
+715,tehri garwal,uttar pradesh,,GEN,North
+716,tenkasi,tamil nadu,S22,SC,South
+717,thanjavur,tamil nadu,S22,GEN,South
+718,tindivanam,tamil nadu,,GEN,South
+719,tiruchendur,tamil nadu,,GEN,South
+720,tiruchengode,tamil nadu,,GEN,South
+721,tiruchirappalli,tamil nadu,S22,GEN,South
+722,tirunelveli,tamil nadu,S22,GEN,South
+723,tiruppattur,tamil nadu,,GEN,South
+724,tiruttani,tamil nadu,,GEN,South
+725,vellore,tamil nadu,S22,SC,South
+726,vijayawada,andhra pradesh,S01,GEN,South
+727,wandiwash,tamil nadu,,GEN,South
+728,adoor,kerala,,GEN,South
+729,alipurduars,west bengal,S25,ST,East
+730,alleppey,kerala,,GEN,South
+731,andaman & nicobar islands,andaman & nicobar islands,U01,GEN,South
+732,arakkonam,tamil nadu,S22,SC,South
+733,arrah,bihar,S04,GEN,East
+734,arunachal east,arunachal pradesh,S02,GEN,East
+735,asansol,west bengal,S25,SC,East
+736,aska,odisha,,GEN,East
+737,autonomous district,assam,S03,ST,East
+738,bagalkot,karnataka,S10,GEN,South
+739,balasore,odisha,,ST,East
+740,balia,bihar,,GEN,East
+741,balurghat,west bengal,S25,GEN,East
+742,bangalore north,karnataka,S10,GEN,South
+743,bangalore south,karnataka,S10,GEN,South
+744,banswara,rajasthan,S20,GEN,West
+745,bapatla,andhra pradesh,S01,GEN,South
+746,bara banki,uttar pradesh,,SC,North
+747,barasat,west bengal,S25,SC,East
+748,barrackpore,west bengal,S25,SC,East
+749,basirhat,west bengal,S25,SC,East
+750,bayana,rajasthan,,SC,West
+751,beed,maharashtra,S13,GEN,West
+752,belgaum,karnataka,S10,GEN,South
+753,bellary,karnataka,S10,SC,South
+754,berhampur,odisha,,GEN,East
+755,bhadrak,odisha,,GEN,East
+756,bharatpur,rajasthan,S20,SC,West
+757,bhatinda,punjab,,GEN,North
+758,bhavnagar,gujarat,S06,SC,West
+759,bhilwara,rajasthan,S20,ST,West
+760,bhiwani,haryana,S07,GEN,North
+761,bidar,karnataka,S10,GEN,South
+762,bijapur,karnataka,S10,SC,South
+763,bikaner,rajasthan,S20,SC,West
+764,birbhum,west bengal,S25,GEN,East
+765,bolpur,west bengal,S25,SC,East
+766,bombay north,maharashtra,,SC,West
+767,bombay north central,maharashtra,,GEN,West
+768,bombay north east,maharashtra,,SC,West
+769,bombay south central,maharashtra,,GEN,West
+770,broach,gujarat,,ST,West
+771,buldhana,maharashtra,S13,GEN,West
+772,calicut,kerala,,GEN,South
+773,cannanore,kerala,,GEN,South
+774,chamarajanagar,karnataka,S10,GEN,South
+775,chandni chowk,delhi,,SC,North
+776,chandrapur,maharashtra,S13,GEN,West
+777,chengalpattu,tamil nadu,,GEN,South
+778,chhota udaipur,gujarat,S06,ST,West
+779,chidambaram,tamil nadu,S22,GEN,South
+780,chikballapur,karnataka,,ST,South
+781,chikkodi,karnataka,S10,GEN,South
+782,chikmagalur,karnataka,,GEN,South
+783,chitradurga,karnataka,S10,GEN,South
+784,chittorgarh,rajasthan,S20,ST,West
+785,churu,rajasthan,S20,GEN,West
+786,dadra & nagar haveli,dadra & nagar haveli,,GEN,West
+787,dahanu,maharashtra,,GEN,West
+788,dahod,gujarat,S06,GEN,West
+789,daman and diu,daman & diu,,GEN,West
+790,davangere,karnataka,,ST,South
+791,deogarh,odisha,,GEN,East
+792,dharmapuri,tamil nadu,S22,SC,South
+793,dharwad north,karnataka,,GEN,South
+794,dharwad south,karnataka,,GEN,South
+795,dum dum,west bengal,S25,SC,East
+796,durgapur,west bengal,,SC,East
+797,erandol,maharashtra,,GEN,West
+798,faridabad,haryana,S07,GEN,North
+799,faridkot,punjab,S19,GEN,North
+800,gandhinagar,gujarat,S06,GEN,West
+801,gobichettipalayam,tamil nadu,,SC,South
+802,gulbarga,karnataka,S10,GEN,South
+803,hajipur,bihar,,SC,East
+804,hamirpur,himachal pradesh,S08,SC,North
+805,hanamkonda,andhra pradesh,,GEN,South
+806,hardwar,uttar pradesh,,SC,North
+807,hassan,karnataka,S10,GEN,South
+808,hingoli,maharashtra,S13,GEN,West
+809,ichalkaranji,maharashtra,,GEN,West
+810,idukki,kerala,S11,GEN,South
+811,jadavpur,west bengal,S25,GEN,East
+812,jagatsinghpur,odisha,,SC,East
+813,jajpur,odisha,,ST,East
+814,jalpaiguri,west bengal,S25,SC,East
+815,jhanjharpur,bihar,S04,GEN,East
+816,joynagar,west bengal,S25,GEN,East
+817,jullundur,punjab,,SC,North
+818,kaira,gujarat,,ST,West
+819,kaiserganj,uttar pradesh,S24,GEN,North
+820,kanakapura,karnataka,,GEN,South
+821,kanara,karnataka,,SC,South
+822,kapadvanj,gujarat,,GEN,West
+823,karnal,haryana,S07,SC,North
+824,karol bagh,delhi,,GEN,North
+825,kasaragod,kerala,S11,GEN,South
+826,kendrapara,odisha,,ST,East
+827,khed,maharashtra,,SC,West
+828,kodarma,bihar,,GEN,East
+829,kolar,karnataka,S10,GEN,South
+830,koppal,karnataka,S10,SC,South
+831,kota,rajasthan,S20,GEN,West
+832,kurukshetra,haryana,S07,GEN,North
+833,kutch,gujarat,,SC,West
+834,lakshadweep,lakshadweep,U06,ST,Other
+835,latur,maharashtra,S13,GEN,West
+836,ludhiana,punjab,S19,SC,North
+837,madhepura,bihar,S04,GEN,East
+838,madras central,tamil nadu,,GEN,South
+839,madras north,tamil nadu,,SC,South
+840,mahabubnagar,andhra pradesh,,GEN,South
+841,mandvi,gujarat,,GEN,West
+842,mandya,karnataka,S10,GEN,South
+843,mangaldoi,assam,S03,GEN,East
+844,mangalore,karnataka,,GEN,South
+845,mathurapur,west bengal,S25,GEN,East
+846,mavelikara,kerala,,SC,South
+847,mayiladuturai,tamil nadu,,SC,South
+848,mayurbhanj,odisha,,GEN,East
+849,mizoram,mizoram,S16,ST,East
+850,mormugao,goa daman and diu,,GEN,Other
+851,mysore,karnataka,S10,GEN,South
+852,nabadwip,west bengal,,GEN,East
+853,nagaland,nagaland,S17,ST,East
+854,nandurbar,maharashtra,S13,GEN,West
+855,nashik,maharashtra,S13,ST,West
+856,ottapalam,kerala,,GEN,South
+857,palani,tamil nadu,,GEN,South
+858,panskura,west bengal,,SC,East
+859,patiala,punjab,S19,SC,North
+860,perambalur,tamil nadu,S22,GEN,South
+861,periyakulam,tamil nadu,,GEN,South
+862,phulbani,odisha,,GEN,East
+863,ponnani,kerala,S11,GEN,South
+864,porbandar,gujarat,S06,GEN,West
+865,pune,maharashtra,S13,SC,West
+866,puri,odisha,,SC,East
+867,raichur,karnataka,S10,GEN,South
+868,rajapur,maharashtra,,ST,West
+869,ramtek,maharashtra,S13,ST,West
+870,rasipuram,tamil nadu,,GEN,South
+871,ropar,punjab,,GEN,North
+872,saharanpur,uttar pradesh,S24,GEN,North
+873,salumber,rajasthan,,GEN,West
+874,sambhal,uttar pradesh,S24,GEN,North
+875,sarangarh,madhya pradesh,,SC,Central
+876,seoni,madhya pradesh,,GEN,Central
+877,shajapur,madhya pradesh,,SC,Central
+878,sheohar,bihar,S04,GEN,East
+879,shillong,meghalaya,S15,ST,East
+880,shimoga,karnataka,S10,GEN,South
+881,silchar,assam,S03,GEN,East
+882,simla,himachal pradesh,,GEN,North
+883,solapur,maharashtra,S13,GEN,West
+884,sonepat,haryana,,GEN,North
+885,sriperumbudur,tamil nadu,S22,GEN,South
+886,sundargarh,odisha,,GEN,East
+887,thane,maharashtra,S13,GEN,West
+888,tiruchirappalli,tamil nadu,S22,SC,South
+889,tonk,rajasthan,S20,GEN,West
+890,trichur,kerala,,SC,South
+891,tumkur,karnataka,S10,GEN,South
+892,tura,meghalaya,S15,ST,East
+893,udaipur,rajasthan,S20,GEN,West
+894,udupi,karnataka,,SC,South
+895,vaishali,bihar,S04,GEN,East
+896,vellore,tamil nadu,S22,GEN,South
+897,vishnupur,west bengal,,GEN,East
+898,washim,maharashtra,,ST,West
+899,arunachal west,arunachal pradesh,S02,GEN,East
+900,bilaspur,madhya pradesh,,SC,Central
+901,dhule,maharashtra,S13,GEN,West
+902,sidhi,madhya pradesh,S12,ST,Central
+903,sikkim,sikkim,S21,GEN,East
+904,vandavasi,tamil nadu,,GEN,South
+905,yavatmal,maharashtra,S13,GEN,West
+906,mormugao,goa,,GEN,West
+907,panaji,goa,,GEN,West
+908,mumbai north,maharashtra,S13,SC,West
+909,mumbai north central,maharashtra,S13,GEN,West
+910,mumbai north east,maharashtra,S13,SC,West
+911,mumbai north west,maharashtra,S13,GEN,West
+912,mumbai south,maharashtra,,GEN,West
+913,mumbai south central,maharashtra,S13,GEN,West
+914,akbarpur,uttar pradesh,S24,GEN,North
+915,almora,uttarakhand,S28,SC,North
+916,araria,bihar,S04,GEN,East
+917,azamgarh,uttar pradesh,S24,SC,North
+918,bahraich,uttar pradesh,S24,SC,North
+919,balaghat,madhya pradesh,S12,ST,Central
+920,bansgaon,uttar pradesh,S24,GEN,North
+921,bastar,chhattisgarh,S26,GEN,Central
+922,bilaspur,chhattisgarh,S26,GEN,Central
+923,bulandshahr,uttar pradesh,S24,SC,North
+924,buxar,bihar,S04,SC,East
+925,chatra,jharkhand,S27,GEN,East
+926,dhanbad,jharkhand,S27,GEN,East
+927,domariaganj,uttar pradesh,,SC,North
+928,dumka,jharkhand,S27,ST,East
+929,durg,chhattisgarh,S26,ST,Central
+930,etah,uttar pradesh,S24,SC,North
+931,garhwal,uttarakhand,S28,GEN,North
+932,ghatampur,uttar pradesh,,GEN,North
+933,giridih,jharkhand,S27,GEN,East
+934,godda,jharkhand,S27,GEN,East
+935,gorakhpur,uttar pradesh,S24,SC,North
+936,hamirpur,uttar pradesh,S24,SC,North
+937,hardoi,uttar pradesh,S24,GEN,North
+938,hardwar,uttarakhand,S28,GEN,North
+939,hathras,uttar pradesh,S24,GEN,North
+940,hazaribagh,jharkhand,S27,GEN,East
+941,jabalpur,madhya pradesh,S12,ST,Central
+942,jahanabad,bihar,S04,SC,East
+943,jalaun,uttar pradesh,S24,GEN,North
+944,jamshedpur,jharkhand,S27,GEN,East
+945,janjgir,chhattisgarh,S26,SC,Central
+946,jhabua,madhya pradesh,,GEN,Central
+947,kanker,chhattisgarh,S26,GEN,Central
+948,khajuraho,madhya pradesh,S12,SC,Central
+949,khalilabad,uttar pradesh,,SC,North
+950,khargone,madhya pradesh,S12,ST,Central
+951,khunti,jharkhand,S27,ST,East
+952,khurja,uttar pradesh,,GEN,North
+953,kishanganj,bihar,S04,SC,East
+954,kodarma,jharkhand,S27,GEN,East
+955,lalganj,uttar pradesh,S24,GEN,North
+956,lohardaga,jharkhand,S27,ST,East
+957,lucknow,uttar pradesh,S24,SC,North
+958,madhepura,bihar,S04,SC,East
+959,mahasamund,chhattisgarh,S26,GEN,Central
+960,mandla,madhya pradesh,S12,GEN,Central
+961,mandsaur,madhya pradesh,,ST,Central
+962,mirzapur,uttar pradesh,S24,SC,North
+963,mohanlalganj,uttar pradesh,S24,GEN,North
+964,morena,madhya pradesh,S12,GEN,Central
+965,nainital,uttarakhand,S28,GEN,North
+966,palamau,jharkhand,S27,SC,East
+967,raigarh,chhattisgarh,S26,ST,Central
+968,raipur,chhattisgarh,S26,GEN,Central
+969,rajgarh,madhya pradesh,S12,SC,Central
+970,rajmahal,jharkhand,S27,ST,East
+971,rajnandgaon,chhattisgarh,S26,ST,Central
+972,ranchi,jharkhand,S27,GEN,East
+973,robertsganj,uttar pradesh,S24,GEN,North
+974,rosera,bihar,,GEN,East
+975,samastipur,bihar,,SC,East
+976,sambhal,uttar pradesh,S24,SC,North
+977,sarangarh,chhattisgarh,,GEN,Central
+978,sasaram,bihar,,GEN,East
+979,shahdol,madhya pradesh,S12,GEN,Central
+980,singhbhum,jharkhand,S27,ST,East
+981,surguja,chhattisgarh,,ST,Central
+982,tehri garhwal,uttarakhand,S28,GEN,North
+983,ujjain,madhya pradesh,S12,ST,Central
+984,unnao,uttar pradesh,S24,SC,North
+985,adilabad,andhra pradesh,S01,ST,South
+986,agra,uttar pradesh,S24,SC,North
+987,ahmadnagar,maharashtra,S13,GEN,West
+988,ahmedabad east,gujarat,S06,GEN,West
+989,ahmedabad west,gujarat,S06,SC,West
+990,alappuzha,kerala,S11,GEN,South
+991,alathur,kerala,S11,SC,South
+992,ambedkar nagar,uttar pradesh,S24,GEN,North
+993,amravati,maharashtra,S13,SC,West
+994,anandpur sahib,punjab,S19,GEN,North
+995,arakkonam,tamil nadu,S22,GEN,South
+996,arambagh,west bengal,S25,SC,East
+997,arani,tamil nadu,S22,GEN,South
+998,aruku,andhra pradesh,S01,ST,South
+999,attingal,kerala,S11,GEN,South
+1000,badaun,uttar pradesh,S24,GEN,North
+1001,baharampur,west bengal,S25,GEN,East
+1002,bangalore central,karnataka,S10,GEN,South
+1003,bangalore rural,karnataka,S10,GEN,South
+1004,bangaon,west bengal,S25,SC,East
+1005,bapatla,andhra pradesh,S01,SC,South
+1006,barabanki,uttar pradesh,S24,SC,North
+1007,bardhaman purba,west bengal,S25,SC,East
+1008,bardoli,gujarat,S06,ST,West
+1009,bargarh,odisha,,GEN,East
+1010,bastar,chhattisgarh,S26,ST,Central
+1011,bathinda,punjab,S19,GEN,North
+1012,bellary,karnataka,S10,ST,South
+1013,betul,madhya pradesh,S12,ST,Central
+1014,bhadohi,uttar pradesh,S24,GEN,North
+1015,bhandara - gondiya,maharashtra,,GEN,West
+1016,bharuch,gujarat,S06,GEN,West
+1017,bhiwani-mahendragarh,haryana,,GEN,North
+1018,bhongir,andhra pradesh,S01,GEN,South
+1019,bishnupur,west bengal,S25,SC,East
+1020,burdwan - durgapur,west bengal,,GEN,East
+1021,chalakudy,kerala,S11,GEN,South
+1022,chamarajanagar,karnataka,S10,SC,South
+1023,chelvella,andhra pradesh,S01,GEN,South
+1024,chennai central,tamil nadu,S22,GEN,South
+1025,chennai north,tamil nadu,S22,GEN,South
+1026,chennai south,tamil nadu,S22,GEN,South
+1027,chikkballapur,karnataka,S10,GEN,South
+1028,chitradurga,karnataka,S10,SC,South
+1029,chittoor,andhra pradesh,S01,SC,South
+1030,dakshina kannada,karnataka,S10,GEN,South
+1031,daman & diu,daman & diu,U04,GEN,West
+1032,dausa,rajasthan,S20,ST,West
+1033,davanagere,karnataka,S10,GEN,South
+1034,dharmapuri,tamil nadu,S22,GEN,South
+1035,dharwad,karnataka,S10,GEN,South
+1036,dhaurahra,uttar pradesh,S24,GEN,North
+1037,dindori,maharashtra,S13,ST,West
+1038,domariyaganj,uttar pradesh,S24,GEN,North
+1039,dum dum,west bengal,S25,GEN,East
+1040,durg,chhattisgarh,S26,GEN,Central
+1041,erode,tamil nadu,S22,GEN,South
+1042,etawah,uttar pradesh,S24,SC,North
+1043,faridkot,punjab,S19,SC,North
+1044,fatehgarh sahib,punjab,S19,SC,North
+1045,fatehpur sikri,uttar pradesh,S24,GEN,North
+1046,ferozpur,punjab,,GEN,North
+1047,gadchiroli-chimur,maharashtra,,ST,West
+1048,gautam buddh nagar,uttar pradesh,,GEN,North
+1049,ghaziabad,uttar pradesh,S24,GEN,North
+1050,gopalganj,bihar,,SC,East
+1051,gulbarga,karnataka,S10,SC,South
+1052,hatkanangle,maharashtra,S13,GEN,West
+1053,haveri,karnataka,S10,GEN,South
+1054,hisar,haryana,S07,GEN,North
+1055,hoshiarpur,punjab,S19,SC,North
+1056,jaipur rural,rajasthan,S20,GEN,West
+1057,jalandhar,punjab,S19,SC,North
+1058,janjgir-champa,chhattisgarh,,SC,Central
+1059,jhalawar-baran,rajasthan,,GEN,West
+1060,kachchh,gujarat,S06,SC,West
+1061,kadapa,andhra pradesh,S01,GEN,South
+1062,kalyan,maharashtra,S13,GEN,West
+1063,kancheepuram,tamil nadu,S22,SC,South
+1064,kandhamal,odisha,,GEN,East
+1065,kanker,chhattisgarh,S26,ST,Central
+1066,kanniyakumari,tamil nadu,S22,GEN,South
+1067,kannur,kerala,S11,GEN,South
+1068,kanthi,west bengal,S25,GEN,East
+1069,karakat,bihar,S04,GEN,East
+1070,karauli-dholpur,rajasthan,,SC,West
+1071,kaushambi,uttar pradesh,S24,SC,North
+1072,khadoor sahib,punjab,S19,GEN,North
+1073,kheda,gujarat,S06,GEN,West
+1074,kolar,karnataka,S10,SC,South
+1075,kolkata dakshin,west bengal,S25,GEN,East
+1076,kolkata uttar,west bengal,S25,GEN,East
+1077,kollam,kerala,S11,GEN,South
+1078,koppal,karnataka,S10,GEN,South
+1079,korba,chhattisgarh,S26,GEN,Central
+1080,kushi nagar,uttar pradesh,S24,GEN,North
+1081,madha,maharashtra,S13,GEN,West
+1082,mahabubabad,andhra pradesh,S01,ST,South
+1083,mahesana,gujarat,S06,GEN,West
+1084,malappuram,kerala,S11,GEN,South
+1085,maldaha dakshin,west bengal,S25,GEN,East
+1086,maldaha uttar,west bengal,S25,GEN,East
+1087,malkajgiri,andhra pradesh,S01,GEN,South
+1088,mandsour,madhya pradesh,S12,GEN,Central
+1089,maval,maharashtra,S13,GEN,West
+1090,mavelikkara,kerala,S11,SC,South
+1091,mayiladuthurai,tamil nadu,S22,GEN,South
+1092,medinipur,west bengal,S25,GEN,East
+1093,mumbai north,maharashtra,S13,GEN,West
+1094,mumbai north east,maharashtra,S13,GEN,West
+1095,munger,bihar,S04,GEN,East
+1096,nabarangpur,odisha,,ST,East
+1097,nagapattinam,tamil nadu,S22,SC,South
+1098,nagina,uttar pradesh,S24,SC,North
+1099,nainital-udhamsingh nagar,uttarakhand,,GEN,North
+1100,namakkal,tamil nadu,S22,GEN,South
+1101,narsapuram,andhra pradesh,S01,GEN,South
+1102,nashik,maharashtra,S13,GEN,West
+1103,navsari,gujarat,S06,GEN,West
+1104,nellore,andhra pradesh,S01,GEN,South
+1105,nilgiris,tamil nadu,S22,SC,South
+1106,north east delhi,delhi,,GEN,North
+1107,north goa,goa,S05,GEN,West
+1108,north west delhi,delhi,,SC,North
+1109,palakkad,kerala,S11,GEN,South
+1110,palghar,maharashtra,S13,ST,West
+1111,panchmahal,gujarat,S06,GEN,West
+1112,paschim champaran,bihar,S04,GEN,East
+1113,pataliputra,bihar,S04,GEN,East
+1114,pathanamthitta,kerala,S11,GEN,South
+1115,patna sahib,bihar,S04,GEN,East
+1116,pune,maharashtra,S13,GEN,West
+1117,purnia,bihar,S04,GEN,East
+1118,purvi champaran,bihar,S04,GEN,East
+1119,raichur,karnataka,S10,ST,South
+1120,raigad,maharashtra,S13,GEN,West
+1121,rajnandgaon,chhattisgarh,S26,GEN,Central
+1122,rajsamand,rajasthan,S20,GEN,West
+1123,ramtek,maharashtra,S13,SC,West
+1124,ranaghat,west bengal,S25,SC,East
+1125,ratlam,madhya pradesh,S12,ST,Central
+1126,ratnagiri - sindhudurg,maharashtra,,GEN,West
+1127,raver,maharashtra,S13,GEN,West
+1128,sant kabir nagar,uttar pradesh,S24,GEN,North
+1129,saran,bihar,S04,GEN,East
+1130,sarguja,chhattisgarh,S26,ST,Central
+1131,secundrabad,andhra pradesh,S01,GEN,South
+1132,shimla,himachal pradesh,S08,SC,North
+1133,shirdi,maharashtra,S13,SC,West
+1134,shirur,maharashtra,S13,GEN,West
+1135,shrawasti,uttar pradesh,S24,GEN,North
+1136,solapur,maharashtra,S13,SC,West
+1137,sonipat,haryana,S07,GEN,North
+1138,south goa,goa,S05,GEN,West
+1139,srerampur,west bengal,S25,GEN,East
+1140,supaul,bihar,S04,GEN,East
+1141,theni,tamil nadu,S22,GEN,South
+1142,thiruvallur,tamil nadu,S22,SC,South
+1143,thiruvananthapuram,kerala,S11,GEN,South
+1144,thoothukkudi,tamil nadu,S22,GEN,South
+1145,thrissur,kerala,S11,GEN,South
+1146,tirupati,andhra pradesh,S01,SC,South
+1147,tiruppur,tamil nadu,S22,GEN,South
+1148,tiruvannamalai,tamil nadu,S22,GEN,South
+1149,tonk-sawai madhopur,rajasthan,,GEN,West
+1150,udupi chikmagalur,karnataka,S10,GEN,South
+1151,ujiarpur,bihar,S04,GEN,East
+1152,uttara kannada,karnataka,S10,GEN,South
+1153,vadakara,kerala,S11,GEN,South
+1154,vadodara,gujarat,S06,GEN,West
+1155,valmiki nagar,bihar,S04,GEN,East
+1156,valsad,gujarat,S06,ST,West
+1157,viluppuram,tamil nadu,S22,SC,South
+1158,virudhunagar,tamil nadu,S22,GEN,South
+1159,vizianagaram,andhra pradesh,S01,GEN,South
+1160,warangal,andhra pradesh,S01,SC,South
+1161,wayanad,kerala,S11,GEN,South
+1162,west delhi,delhi,,GEN,North
+1163,yavatmal-washim,maharashtra,,GEN,West
+1164,zahirabad,andhra pradesh,S01,GEN,South
+1165,adilabad,telangana,,ST,South
+1166,andaman and nicobar islands,andaman & nicobar islands,,GEN,South
+1167,bhongir,telangana,,GEN,South
+1168,chelvella,telangana,,GEN,South
+1169,chikballapur,karnataka,,GEN,South
+1170,dadra and nagar haveli,dadra & nagar haveli,,GEN,West
+1171,hyderabad,telangana,,GEN,South
+1172,karimnagar,telangana,,GEN,South
+1173,khammam,telangana,,GEN,South
+1174,mahabubabad,telangana,,ST,South
+1175,mahbubnagar,telangana,,GEN,South
+1176,malkajgiri,telangana,,GEN,South
+1177,medak,telangana,,GEN,South
+1178,nagarkurnool,telangana,,SC,South
+1179,nalgonda,telangana,,GEN,South
+1180,nizamabad,telangana,,GEN,South
+1181,peddapalli,telangana,,SC,South
+1182,secundrabad,telangana,,GEN,South
+1183,warangal,telangana,,SC,South
+1184,zahirabad,telangana,,GEN,South
+1185,arunachal east,arunachal pradesh,S02,GENP,East
+1186,arunachal west,arunachal pradesh,S02,GENP,East
+1187,bangalore cent,karnataka,,GEN,South
+1188,bangalore nort,karnataka,,GEN,South
+1189,bangalore rura,karnataka,,GEN,South
+1190,bangalore sout,karnataka,,GEN,South
+1191,bardhaman purb,west bengal,,SC,East
+1192,bhandara - gon,maharashtra,,GEN,West
+1193,bhiwani-mahend,haryana,,GEN,North
+1194,burdwan - durg,west bengal,,GEN,East
+1195,chennai centra,tamil nadu,,GEN,South
+1196,dakshina kanna,karnataka,,GEN,South
+1197,diamond harbou,west bengal,,GEN,East
+1198,fatehgarh sahi,punjab,,SC,North
+1199,gadchiroli-chi,maharashtra,,ST,West
+1200,gautam buddh n,uttar pradesh,,GEN,North
+1201,karauli-dholpu,rajasthan,,SC,West
+1202,kolkata dakshi,west bengal,,GEN,East
+1203,maldaha dakshi,west bengal,,GEN,East
+1204,nainital-udham,uttarakhand,,GEN,North
+1205,peddapalle,telangana,,SC,South
+1206,puducherry,pondicherry,,GEN,Other
+1207,ratnagiri - si,maharashtra,,GEN,West
+1208,sant kabir nag,uttar pradesh,,GEN,North
+1209,thiruvananthap,kerala,,GEN,South
+1210,tiruchirappall,tamil nadu,,GEN,South
+1211,tonk-sawai mad,rajasthan,,GEN,West
+1212,udupi chikmaga,karnataka,,GEN,South
+1213,yavatmal-washi,maharashtra,,GEN,West
