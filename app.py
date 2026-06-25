@@ -193,14 +193,15 @@ def get_valid_values():
 
 
 if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
     print("\n" + "="*55)
     print("  BHARATVOTE LIVE PREDICTION SERVER")
-    print("  Open: http://localhost:5000")
+    print(f"  Open: http://localhost:{port}")
     print("="*55 + "\n")
     try:
         from waitress import serve
-        print("  [INFO] Running on production-ready Waitress server...")
-        serve(app, host="127.0.0.1", port=5000)
+        print(f"  [INFO] Running on production-ready Waitress server on port {port}...")
+        serve(app, host="0.0.0.0", port=port)
     except ImportError:
         print("  [WARNING] Waitress not installed. Running on development server...")
-        app.run(debug=True, port=5000)
+        app.run(debug=True, host="0.0.0.0", port=port)
