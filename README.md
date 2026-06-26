@@ -166,15 +166,8 @@ open terminal
 
 Clone the repository
 ```bash
-git clone https://github.com/yourusername/Indian-Election-Intelligence-System.git
+https://github.com/niranjanneeru69-cmd/Bharat-Vote-Analytics.git
 ```
-
-Go to the project folder
-
-```bash
-cd Indian-Election-Intelligence-System
-``
-
 Install dependencies
 
 ```bash
@@ -221,17 +214,8 @@ Include screenshots of:
 * Cloud deployment
 * Explainable AI (SHAP/LIME)
 * Live election analytics dashboard
-
----
-
-# 👥 Team
-
-* Battula Venkata Niranjan
-* Aryan Vasisth
-* Kothapalli Tarun Sandeep
-* Sriramoju Srujan
-
----
+  
+----
 
 # 📄 License
 
