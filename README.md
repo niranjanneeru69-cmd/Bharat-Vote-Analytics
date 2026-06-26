@@ -2,9 +2,9 @@
 
 > A Machine Learning and Data Warehouse platform for analyzing Indian General Election data (1952–2019) using ETL pipelines, predictive analytics, and interactive visualizations.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![SQLite](https://img.shields.io/badge/Database-SQLite-green)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![SQLite](https://img.shields.io/badge/SQLite-Database-green?logo=sqlite)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
